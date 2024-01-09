@@ -1,12 +1,12 @@
 {
   "name": "playwrightzerostepdemo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright ZeroStep Integration",
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test"
   },
-  "author": "",
+  "author": "Faiza A.",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.40.1",
